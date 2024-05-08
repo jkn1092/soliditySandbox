@@ -1,4 +1,11 @@
-# soliditySandbox
- 
-## alyraSandbox
-This folder contains the work which I've done during three months course in Alyra. Different topics were covered during these 3 months. There is also some project which I've done as an assignment but they are not in this repo.
+# My Blockchain Development Portfolio
+
+## Smart Contracts
+
+### Alyra  Projects
+- [Alyra School Smart Contracts]
+  - Description: This folder contains all the smart contracts I created during my 3 months at Alyra Blockchain School.
+
+### Curiosity Projects
+- [Curiosity Smart Contracts]
+  - Description: This folder contains smart contracts I created out of curiosity and for experimental purposes.
